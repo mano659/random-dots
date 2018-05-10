@@ -1,0 +1,9 @@
+body {
+    /*background: teal;*/
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+}
+
+body h1 {
+    color: white;
+}
